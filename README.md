@@ -5,7 +5,7 @@
 
 **D3** (or **D3.js**) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML. D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
 
-## Resources V-0.1 (2017.03.28) by haley
+## Resources V0.1 (2017.03.28) by haley
 
 * [JAVASCRIPT-CDN](https://github.com/rocateer/ROCAT-CSS/wiki/JAVASCRIPT-CDN)
 * [스크롤 시 메뉴 활성화](https://github.com/rocateer/ROCAT-CSS/wiki/%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%8B%9C-%EB%A9%94%EB%89%B4-%ED%99%9C%EC%84%B1%ED%99%94)
