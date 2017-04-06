@@ -1,6 +1,6 @@
 # ROCAT-CSS 
 
-CSS, UI 개발
+CSS 규칙정리 , UI 개발
 
 ## Resources V0.1 (2017.03.28) by haley
 * [JAVASCRIPT-CDN](https://github.com/rocateer/ROCAT-CSS/wiki/JAVASCRIPT-CDN)
