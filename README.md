@@ -1,6 +1,6 @@
 # ROCAT-CSS 
 
-<a href="#"><img src="https://github.com/rocateer/ROCAT-CSS/blob/master/4f8410_519721a2656d4ae782828335e97aa5cb.png" width="200px" align="left" hspace="10" vspace="6"></a>
+CSS, UI 개발
 
 
 ## Resources V0.1 (2017.03.28) by haley
