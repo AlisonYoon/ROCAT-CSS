@@ -1,0 +1,58 @@
+@font-face {
+ font-family: 'Nanum barun Gothic';
+ font-style: normal;
+ src: url(../fonts/NanumBarunGothic.eot);
+ src: url(../fonts/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+			url(../fonts/NanumBarunGothic.woff) format('woff'),
+			url(../fonts/NanumBarunGothic.ttf) format('truetype');
+}
+
+body { background-color:#ECF0F1; padding: 100px}
+
+.progress-bar {
+  position: relative;
+  height: 100px;
+  width: 100px;
+}
+
+.progress-bar div {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  font-family: Nanum barun Gothic;
+  line-height: 150%;
+}
+
+.progress-bar div>span {
+  position: absolute;
+  font-size: 16px;
+  color: #5b84c1;
+  height: 63px;
+  width: 80px;
+  left: 10px;
+  top: 10px;
+  padding-top: 17px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.progress-bar div>span>span {
+  font-size: 20px;
+}
+
+.progress-bar .rotate {
+  clip: rect(0 50px 100px 0);
+}
+
+.progress-bar .left {
+  clip: rect(0 50px 100px 0);
+  opacity: 1;
+}
+
+.progress-bar .right {
+  clip: rect(0 50px 100px 0);
+  transform: rotate(180deg);
+  opacity: 0;
+}

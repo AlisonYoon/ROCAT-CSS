@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body{background:#fff;}
+body, div,ul, li{margin:0; padding:0;}
+li{list-style:none;}
+
+
+/* layout */
+.wrap{width:1000px; margin: 0 auto; }
+h1{padding: 50px 0; text-align: center;}
+
+ul{ overflow: hidden; width: 700px; margin: 0 auto; }
+ul li{float: left; overflow: hidden; }
+ul li img{ width: calc(100% - 2px); min-height: calc(100% - 2px); margin: 1px}
